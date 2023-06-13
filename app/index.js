@@ -6,7 +6,6 @@ import { COLORS, icons, images, SIZES } from "../constants";
 import {
   Nearbyjobs,
   Popularjobs,
-  ScreeHeaderBtn,
   ScreenHeaderBtn,
   Welcome,
 } from "../components";
